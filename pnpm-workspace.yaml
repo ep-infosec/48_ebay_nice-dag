@@ -1,0 +1,4 @@
+packages:
+  - 'packages/nice-dag**/**'
+  - 'example/react'
+  - 'example/vue'
